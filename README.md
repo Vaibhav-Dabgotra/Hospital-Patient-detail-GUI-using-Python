@@ -1,0 +1,1 @@
+# Hospital-Patient-detail-GUI-using-Python
